@@ -1,1 +1,5 @@
+--[ https://discord.gg/k7Truzpk3H
+]--
+
+
 loadstring(game:HttpGet('https://raw.githubusercontent.com/TheKrispydonut/Fate-X/main/Loader.txt'))()

@@ -4,7 +4,7 @@ IT WILL NOT WORK PROPERLY
 ]--
 
 
-
+loadstring(game:HttpGet('https://raw.githubusercontent.com//TheKrispydonut/Hellraiser/blob/main/Configs.txt'))()
 
 
 

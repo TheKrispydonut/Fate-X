@@ -14,10 +14,9 @@ https://discord.gg/k7Truzpk3H to get latest update | If you payed for this scrip
 ]]--
 
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/TheKrispydonut/Fate-X/main/Loader.txt'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/TheKrispydonut/Hellraiser/main/Main.txt'))()
 
 ```
-
 
 
 ## Features

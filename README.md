@@ -52,4 +52,4 @@ Scripts - Tay
 
 ![alt text](https://github.com/TheKrispydonut/Hellraiser/blob/main/apple.jpg?raw=true)
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+

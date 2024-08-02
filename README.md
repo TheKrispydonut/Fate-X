@@ -37,7 +37,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/TheKrispydonut/Hellra
 ```
 
 ## Features
-Currently 0 working features
+Currently a few working features
 
 ## Discord
 https://discord.gg/k7Truzpk3H

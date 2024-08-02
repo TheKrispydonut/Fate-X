@@ -42,8 +42,7 @@ Currently a few working features
 ## Discord
 https://discord.gg/k7Truzpk3H
 
-## Executers
-Level 7+ 
+
 
 ## Credits
 UI - Tay
